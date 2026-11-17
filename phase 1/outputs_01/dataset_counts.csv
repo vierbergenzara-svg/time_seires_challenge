@@ -1,0 +1,9 @@
+,value
+windows (rows),106800
+unique label_id,106800
+unique eeg_id,17089
+unique spectrogram_id,11138
+unique patient_id,1950
+windows >= 10 votes,39946
+windows < 10 votes,66854
+patients with any >= 10-vote window,1063
