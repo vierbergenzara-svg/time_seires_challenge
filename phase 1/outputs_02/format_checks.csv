@@ -1,0 +1,18 @@
+,value
+eeg_columns,20
+eeg_column_names,Fp1 F3 C3 P3 F7 T3 T5 O1 Fz Cz Pz Fp2 F4 C4 P4 F8 T4 T6 O2 EKG
+eeg_window_rows,10000
+spec_columns_incl_time,401
+spec_regions,LL RL LP RP
+spec_freqs_per_region,100
+spec_freq_min_hz,0.59
+spec_freq_max_hz,19.92
+spec_freq_steps_hz,0.19 0.2
+spec_time_step_s,2
+spec_window_rows_example,300
+eeg_files_checked_same_columns,1.0
+eeg_files_checked_long_enough,1.0
+eeg_files_checked_with_nan,0.05
+spec_files_checked_same_columns,1.0
+spec_files_checked_with_nan,0.06
+eeg_spec_pairs_constant_offset_diff,1.0
